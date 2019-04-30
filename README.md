@@ -1,6 +1,4 @@
-# ftl-eu-akamai
-Footlocker EU (DE) Akamai Anti Bot 
+# Akamai Antibot
 
-Anti bot protection used by Footlocker EU, created by Akamai.
-
-Find the deobfuscated/beautified script in the akam.js file
+AntiBot JS by Akamai. It creates the abck / ak cookies taht are needed to visit the target site.
+For example Footlocker EU uses this system.
